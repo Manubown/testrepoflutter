@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546401926372",
+    "project_id": "nutrition-app-f30ec",
+    "storage_bucket": "nutrition-app-f30ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546401926372:android:a52953e7f66e8f444d00f1",
+        "android_client_info": {
+          "package_name": "com.example.nutritionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546401926372-83ti1v65sntdaehgd1mj3gn1ptaf373f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPy9oe4tTyJls7FhnJZVRtD6fjPyEOtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546401926372-83ti1v65sntdaehgd1mj3gn1ptaf373f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
